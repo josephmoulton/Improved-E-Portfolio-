@@ -58,7 +58,7 @@ button {
 }
 
 .coloured {
-  color: #ff7f50;
+  color: #f88379 ;
 }
 
 .click {
@@ -88,7 +88,7 @@ textarea:hover {
 
 input:focus,
 textarea:focus {
-  border-color: #ff7f50;
+  border-color: #f88379 ;
 }
 
 .container {
@@ -203,7 +203,7 @@ nav,
 }
 
 .social__link {
-  background-color: #ff7f50;
+  background-color: #f88379 ;
   color: white;
   padding: 6px;
   width: 32px;
@@ -404,8 +404,8 @@ nav {
 }
 
 .form__submit {
-  background-color: #ff7f50;
-  border: 2px solid #ff7f50;
+  background-color: #f88379 ;
+  border: 2px solid #f88379 ;
   color: white;
   font-weight: bold;
   width: 100%;
@@ -421,8 +421,8 @@ nav {
 }
 
 .form__submit:active {
-  border-color: #ff7f50;
-  color: #ff7f50;
+  border-color: #f88379 ;
+  color: #f88379 ;
 }
 
 .modal__overlay {
